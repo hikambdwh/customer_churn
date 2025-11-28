@@ -208,7 +208,7 @@ with tab_dashboard:
             unsafe_allow_html=True,
         )
 
-    dashboard_path = Path("assets/dashboard_churn.png")
+    dashboard_path = Path("dashboard/dashboard_churn.png")
 
     st.write("")  # spacing kecil
 
